@@ -14,7 +14,7 @@ npm i system-fonts-stack
 @import "system-fonts-stack";
 ```
 
-System Font | Variable | Class
+Fonts | Variables | Utilities
 :--- |:--- |:---
 System UI | `--system-ui` | `.sfs-system-ui`
 Transitional | `--transitional` | `.sfs-transitional`
