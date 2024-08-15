@@ -1,0 +1,34 @@
+{
+  "name": "system-fonts-stack",
+  "version": "0.0.1",
+  "description": "",
+  "source": "src/index.scss",
+  "main": "dist/index.css",
+  "targets": {
+    "main": false
+  },
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/planetabhi/system-fonts-stack.git"
+  },
+  "keywords": [
+    "system",
+    "fonts",
+    "stack"
+  ],
+  "author": "@planetabhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/planetabhi/system-fonts-stack/issues"
+  },
+  "homepage": "https://github.com/planetabhi/system-fonts-stack#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "autoprefixer": "^10.4.20",
+    "parcel": "^2.12.0"
+  }
+}
